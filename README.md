@@ -1,4 +1,4 @@
-# ODE_Java_Chess_Game
+# ODE_Java_Connect4_Game
 For educational purposes only
 
 ## Ziel
@@ -18,11 +18,12 @@ Ein Projekt in Java FX zu realisieren, da den gesamten Stoff dieser Lehrveransta
 - [x] Networking (Kommunikation von Server / Client Software über TCP / UDP
 
 ## Meilensteine
-- [ ] Design the user interface for the chess application.
-- [ ] Benutzeroberfläche fertig
-- [ ] Spiellogik fertig
-- [ ] Spielregeln implementiert
-- [ ] online gegeneinander spielen.
+- [x] Design the user interface for the chess application.
+- [x] Benutzeroberfläche fertig
+- [x] Spiellogik fertig
+- [x] Spielregeln implementiert
+- [x] online gegeneinander spielen.
+
 - [ ] gegen Computergegner spielen.
 - [ ] Chat funktioniert
 
