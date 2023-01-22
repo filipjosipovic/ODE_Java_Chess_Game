@@ -1,12 +1,12 @@
 # ODE_Java_Chess_Game
 For educational purposes only
 
-##Ziel
+## Ziel
 Ein Projekt in Java FX zu realisieren, da den gesamten Stoff dieser Lehrveranstaltung umfasst.
 
 
 
-##Voraussetzungen
+## Voraussetzungen
 -) Der Code sollte mit JavaDoc Kommentaren versehen sein.
 -)Eine readme.md sollte einen groben Überblick über das Projekt geben.
 -)Mehrere Klassen mit Vererbung, Overriding von Methoden und ggf mehren Konstruktoren in der Klasse
