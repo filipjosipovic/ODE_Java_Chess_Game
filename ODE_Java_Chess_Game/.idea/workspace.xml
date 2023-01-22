@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4bb9e8b-4841-43e0-9d9e-31f18fdfe920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/game_logic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game_logic/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game_logic/ServerHTTPServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODE_Java_Chess_Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ODE_Java_Chess_Game.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,6 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674390565057</updated>
-      <workItem from="1674390566279" duration="471000" />
+      <workItem from="1674390566279" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <created>1674390685821</created>
@@ -63,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674390685821</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created Server.java">
+      <created>1674391073269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674391073269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,7 +84,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -83,7 +99,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Created Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Project" />
+    <MESSAGE value="Created Server.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Server.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
