@@ -12,4 +12,9 @@ public class Configurator implements ServletContextListener {
         registration.setAsyncSupported(true);
         registration.addMappingForUrlPatterns(null, false, "/welcome_page.jsp");
     }
+
+    @Override
+    public void contextDestroyed(ServletContextEvent servletContextEvent) {
+
+    }
 }

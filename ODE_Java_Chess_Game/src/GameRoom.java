@@ -1,5 +1,4 @@
-import game.*;
-
+import figures.*;
 import javax.json.Json;
 import javax.json.JsonObject;
 import javax.json.JsonWriter;
@@ -44,7 +43,7 @@ public class GameRoom {
         System.out.println(posFinal);
         switch (piece){
             case "♖":
-                Piece rookW = new Rook(0,posInit);
+                Piece rookW = new figures.Rook(0,posInit);
                 possible = rookW.makeMove(posFinal);
                 if (turn != rookW.color){
                     possible = false;

@@ -20,7 +20,7 @@ public class ServerServlet extends HttpServlet {
             System.out.println("Server is running");
             while (true) {
                 Socket socket = serverSocket.accept();
-                new Thread(new Server(socket)).start();
+                new Thread(new game_logic.Server(socket)).start();
             }
         } catch (IOException e) {
             e.printStackTrace();

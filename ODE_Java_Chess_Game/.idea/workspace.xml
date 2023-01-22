@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f4bb9e8b-4841-43e0-9d9e-31f18fdfe920" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game_logic/ServerHTTPServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game_logic/ServerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Configurator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Configurator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674390565057</updated>
-      <workItem from="1674390566279" duration="1395000" />
+      <workItem from="1674390566279" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <created>1674390685821</created>
