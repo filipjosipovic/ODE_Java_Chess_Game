@@ -1,4 +1,4 @@
-package game;
+package figures;
 
 public class Pawn extends Piece {
     public Pawn(int color, String pos) {

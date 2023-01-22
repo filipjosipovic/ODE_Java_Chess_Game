@@ -1,4 +1,4 @@
-package game;
+package figures;
 
 public class King extends Piece {
     public King(int color, String pos) {

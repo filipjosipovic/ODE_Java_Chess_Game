@@ -1,4 +1,4 @@
-package game;
+package figures;
 
 import static java.lang.Math.abs;
 

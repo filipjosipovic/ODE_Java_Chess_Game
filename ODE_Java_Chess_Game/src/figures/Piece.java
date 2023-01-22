@@ -1,4 +1,4 @@
-package game;
+package figures;
 
 public abstract class Piece {
     public int color;
