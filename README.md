@@ -19,15 +19,12 @@ Ein Projekt in Java FX zu realisieren, da den gesamten Stoff dieser Lehrveransta
 
 ## Meilensteine
 - [ ] Design the user interface for the chess application.
-- [ ] Develop the game logic for the chess application.
-- [ ] Implement the game rules for the chess application.
-- [ ] Create a database to store user data and game data.
-- [ ] Develop a system to allow users to play against each other online.
-- [ ] Develop a system to allow users to play against computer opponents.
-- [ ] Develop a system to allow users to save and load games.
-- [ ] Develop a system to allow users to review their past games.
-- [ ] Develop a system to allow users to chat with each other while playing.
-- [ ] Develop a system to allow users to customize the look and feel of the application.
+- [ ] Benutzeroberfläche fertig
+- [ ] Spiellogik fertig
+- [ ] Spielregeln implementiert
+- [ ] online gegeneinander spielen.
+- [ ] gegen Computergegner spielen.
+- [ ] Chat funktioniert
 
 ## Contributors
 - Filip (ic22b025@technikum-wien.at)
