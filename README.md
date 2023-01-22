@@ -16,3 +16,7 @@ Ein Projekt in Java FX zu realisieren, da den gesamten Stoff dieser Lehrveransta
 - [ ] Multithreading (Zeitintensive Berechnungen NICHT im Gui-Thread)<br>
 - [ ] Durchdachte und aufgeräumte GUI. (FXML oder Inline)<br>
 - [ ] Networking (Kommunikation von Server / Client Software über TCP / UDP
+
+## Contributors
+- Filip (ic22b025@technikum-wien.at)
+- Kerim (icXXbXXX@technikum-wien.at)
