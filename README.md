@@ -7,7 +7,7 @@ Ein Projekt in Java FX zu realisieren, da den gesamten Stoff dieser Lehrveransta
 
 
 ## Voraussetzungen
-- [] Der Code sollte mit JavaDoc Kommentaren versehen sein.<br>
+- [ ] Der Code sollte mit JavaDoc Kommentaren versehen sein.<br>
 - [] Eine readme.md sollte einen groben Überblick über das Projekt geben.<br>
 - [] Mehrere Klassen mit Vererbung, Overriding von Methoden und ggf mehren Konstruktoren in der Klasse<br>
 - [] Die Zugriffsrechte für Klassen, Methoden und Properties (Variablen) sollten sinnvoll gewählt werden<br>
