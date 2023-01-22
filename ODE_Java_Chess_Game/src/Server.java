@@ -1,4 +1,3 @@
-package game_logic;
 
 import java.io.IOException;
 import java.io.PrintWriter;
